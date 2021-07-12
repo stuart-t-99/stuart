@@ -12,8 +12,10 @@ const IndexPage = () => (
     <p>I have over 10 years combined experience in Strategy, Analytics and implementing ML solutions that solve real customer problems.</p>
     <p>Currently managing a large project for the implementation of Microsoft Azure Machine Learning.</p>
     <p>Passionate about getting MLOps frameworks setup to allow ML solutions to scale.</p>
+    <h3>Certified Micosoft Azure Data Scientist.</h3>
+  
     <StaticImage
-      src="../images/gatsby-astronaut.png"
+      src="../images/azure-data-scientist-associate-600x600.png"
       width={300}
       quality={95}
       formats={["AUTO", "WEBP", "AVIF"]}
