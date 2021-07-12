@@ -13,10 +13,18 @@ const IndexPage = () => (
     <p>Currently managing a large project for the implementation of Microsoft Azure Machine Learning.</p>
     <p>Passionate about getting MLOps frameworks setup to allow ML solutions to scale.</p>
     <h3>Certified Micosoft Azure Data Scientist.</h3>
-  
-    <StaticImage
+      <StaticImage
       src="../images/azure-data-scientist-associate-600x600.png"
-      width={300}
+      width={100}
+      quality={95}
+      formats={["AUTO", "WEBP", "AVIF"]}
+      alt="A Gatsby astronaut"
+      style={{ marginBottom: `1.45rem` }}
+    />
+   <h3>Certified LUMA Human Centred Design Practitioner.</h3>
+<StaticImage
+      src="../images/azure-data-scientist-associate-600x600.png"
+      width={100}
       quality={95}
       formats={["AUTO", "WEBP", "AVIF"]}
       alt="A Gatsby astronaut"
