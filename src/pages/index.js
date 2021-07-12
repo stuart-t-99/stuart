@@ -10,7 +10,8 @@ const IndexPage = () => (
     <Seo title="Home" />
     <h2>Strategy | Analytics | Machine Learning | Automation</h2>
     <p>I have over 10 years combined experience in Strategy, Analytics and implementing ML solutions that solve real customer problems.</p>
-    <p>Now go build something great.</p>
+    <p>Currently managing a large project for the implementation of Microsoft Azure Machine Learning.</p>
+    <p>Passionate about getting MLOps frameworks setup to allow ML solutions to scale.</p>
     <StaticImage
       src="../images/gatsby-astronaut.png"
       width={300}
