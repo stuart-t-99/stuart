@@ -23,7 +23,7 @@ const IndexPage = () => (
     />
    <h3>Certified LUMA Human Centred Design Practitioner.</h3>
 <StaticImage
-      src="../images/azure-data-scientist-associate-600x600.png"
+      src="../images/luma_badge.png"
       width={100}
       quality={95}
       formats={["AUTO", "WEBP", "AVIF"]}
