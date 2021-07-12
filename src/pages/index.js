@@ -9,7 +9,7 @@ const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
     <h2>Strategy | Analytics | Machine Learning | Automation</h2>
-    <p>Welcome to your new Gatsby site.</p>
+    <p>I have over 10 years combined experience in Strategy, Analytics and implementing ML solutions that solve real customer problems.</p>
     <p>Now go build something great.</p>
     <StaticImage
       src="../images/gatsby-astronaut.png"
